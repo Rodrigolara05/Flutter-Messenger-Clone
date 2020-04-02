@@ -36,7 +36,7 @@ Si deseas conocer la creación paso a paso del aplicativo movil, una explicació
   Programación en nuevas tecnologias,
   Y mas!   
 
-* **Flutter UI: Desarrollando FBMessenger desde cero || Material Design** -  [Enlace](https://www.youtube.com/watch?v=VxZmqwWJv-U&t=0s)
+* **Flutter UI: Desarrollando FBMessenger desde cero || Material Design** -  [Enlace](https://youtu.be/VxZmqwWJv-U)
 
 ## Enlace 🔗
 
